@@ -122,7 +122,7 @@ const Calendar = ({ events }) => {
  };
 
  const renderDaysOfWeek = () => {
-    const days = ['Sunday', 'Monday', 'Tueday', 'Wedday', 'Thursday', 'Friday', 'Saturday'];
+    const days = ['Sunday', 'Monday', 'Tueday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
     return days.map((day, index) => <div key={index} className="cell">{day}</div>);
  };
 
