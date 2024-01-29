@@ -89,9 +89,16 @@ button:focus-visible {
   border-radius: 0.25rem;
   cursor: pointer;
  }
- 
+
  .buttons:hover {
   background-color: darkblue;
+ }
+
+ [disabled], [disabled]:hover{
+  background-color: #f2f2f2;
+  color: black;
+  border-color: #f2f2f2;
+  cursor:not-allowed;
  }
  
  .grid {
@@ -120,6 +127,28 @@ button:focus-visible {
   cursor: pointer;
  }
 
+ .event-image-desc{
+  display: flex;
+  gap: 20px;
+ }
+
+ .event-image-desc img {
+  width: 250px;
+  height: 200px;
+ }
+
+ .text-right{
+  text-align: right;
+ }
+ 
+ h3{
+  margin: 0;
+ }
+
+ .font-xs {
+  font-size: 0.8rem;
+ }
+
  /* Modal */
  .event-modal {
   position: fixed;
@@ -141,8 +170,9 @@ button:focus-visible {
   border-radius: 0.25rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   position: relative;
-  max-width: 620px;
+  max-width: 750px;
   margin: 0 auto;
+  text-align: left;
  }
  
  .event-modal .modal-content h2 {
