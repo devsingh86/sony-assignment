@@ -189,7 +189,7 @@ const Calendar = ({ events }) => {
             </span>
             
             <div className='event-image-desc'>
-              <img src={`../src/assets/${selectedEvent.imageFilenameThumb}`}  />
+              <img src={`/images/${selectedEvent.imageFilenameThumb}`}  />
               <div>
                 <h3>{selectedEvent.title}</h3>
                 <p className='font-xs'>Date: {selectedEvent.launchDate.split('T')[0]}</p>

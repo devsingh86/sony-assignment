@@ -8,5 +8,6 @@ export default defineConfig({
     loader: 'jsx',
     include: /\.jsx?$/,
  },
+ base: '/',
 });
 
