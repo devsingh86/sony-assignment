@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 #Build Command
 
-1. install: npm imstall
+1. install: npm install
 2. build: npm run  build
 3. dev: npm run dev
 
