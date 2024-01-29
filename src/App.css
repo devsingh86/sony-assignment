@@ -35,6 +35,9 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+h2{
+  font-weight: normal;
+}
 
 button {
   border-radius: 8px;
@@ -132,7 +135,7 @@ box-shadow: 6px 9px 14px 0px rgba(245,242,245,0.78);
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: wheat;
+  color: white;
   
  }
 
