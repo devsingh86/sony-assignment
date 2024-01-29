@@ -9,7 +9,7 @@ export const eventData = {
         "title": "Gran Turismo 7",
         "summary": "Gran Turismo 7 brings together the very best features of the Real Driving Simulator. Whether you’re a competitive or casual racer, collector, tuner, livery designer or photographer – find your line with a staggering collection of game modes including fan-favorites like GT Campaign, Arcade and Driving School.",
         "imageFilenameThumb": "gran-turismo-7__1x1.webp",
-        "imageFilenameFull": "gran-turismo-7__16x9",
+        "imageFilenameFull": "gran-turismo-7__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/gran-turismo-7/",
         "purchaseLink": "https://www.playstation.com/en-us/games/gran-turismo-7/#buy-now",
         "bgColor": "#FFCCCC"
@@ -20,7 +20,7 @@ export const eventData = {
         "title": "Metal Gear Solid: The Phantom Pain",
         "summary": "Ushering in a new era for the franchise with cutting-edge technology powered by the Fox Engine, MGSV: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
         "imageFilenameThumb": "metal-gear-solid__1x1.jpeg",
-        "imageFilenameFull": "metal-gear-solid__16x9",
+        "imageFilenameFull": "metal-gear-solid__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/",
         "purchaseLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/#buy-now",
         "bgColor": "#FFE5CC"
@@ -31,7 +31,7 @@ export const eventData = {
         "title": "Megaman 11",
         "summary": "Mega Man is back! The newest entry in this iconic series blends classic, challenging 2D platforming action with a fresh look. The stunning new visual style refreshes the series' iconic colorfulness, combining hand-drawn environments with detailed, 3D character models.",
         "imageFilenameThumb": "megaman-11__1x1.webp",
-        "imageFilenameFull": "megaman-11__16x9",
+        "imageFilenameFull": "megaman-11__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/mega-man-11/",
         "purchaseLink": "https://www.playstation.com/en-us/games/mega-man-11/#buy-now",
         "bgColor": "#FFFFCC"
@@ -42,7 +42,7 @@ export const eventData = {
         "title": "Resident Evil 4",
         "summary": "A thrilling reimagining of Capcom's groundbreaking action-horror classic. Resident Evil 4, 2005’s legendary survival horror, is brought fully up-to-date in this ground-up remake.",
         "imageFilenameThumb": "resident-evil-4__1x1.webp",
-        "imageFilenameFull": "resident-evil-4__16x9",
+        "imageFilenameFull": "resident-evil-4__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/",
         "purchaseLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/#buy-now",
         "bgColor": "#E5FFCC"
@@ -53,7 +53,7 @@ export const eventData = {
         "title": "Hotline Miami",
         "summary": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.",
         "imageFilenameThumb": "hotline-miami__1x1.webp",
-        "imageFilenameFull": "hotline-miami__16x9",
+        "imageFilenameFull": "hotline-miami__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/hotline-miami/",
         "purchaseLink": "https://www.playstation.com/en-us/games/hotline-miami/#buy-now",
         "bgColor": "#CCFFCC"
@@ -64,7 +64,7 @@ export const eventData = {
         "title": "Spiderman 2",
         "summary": "BE GREATER. TOGETHER. Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for PS5. <br> Swing, jump and utilize the new Web Wings to travel across Marvel’s New York, quickly switching between Peter Parker and Miles Morales to experience different stories and epic new powers, as the iconic villain Venom threatens to destroy their lives, their city and the ones they love.",
         "imageFilenameThumb": "spiderman-2__1x1.webp",
-        "imageFilenameFull": "spiderman-2__16x9",
+        "imageFilenameFull": "spiderman-2__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/",
         "purchaseLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/#buy-now",
         "bgColor": "#CCFFE5"
@@ -75,7 +75,7 @@ export const eventData = {
         "title": "Final Fantasy XVI",
         "summary": "Enter the dark fantasy world of Valisthea in this highly anticipated single-player action RPG. <br>The 16th standalone entry in the legendary Final Fantasy series marks a darker turn for the RPG franchise, with a complex tale of revenge, power struggles and unavoidable tragedy. <br>Final Fantasy XVI reimagines the series' iconic summons as Eikons. These deadly creatures are housed within Dominants, men and women who inherit their immense power at birth - whether they like it or not.",
         "imageFilenameThumb": "final-fantasy-xvi__1x1.webp",
-        "imageFilenameFull": "final-fantasy-xvi__16x9",
+        "imageFilenameFull": "final-fantasy-xvi__16x9.jpeg",
         "learnMoreLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/",
         "purchaseLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/#buy-now",
         "bgColor": "#CCFFFF"
@@ -86,7 +86,7 @@ export const eventData = {
         "title": "Hogwarts Legacy",
         "summary": "Experience Hogwarts in the late 1800s and decide the fate of the wizarding world.",
         "imageFilenameThumb": "hogwarts-legacy__1x1.webp",
-        "imageFilenameFull": "hogwarts-legacy__16x9",
+        "imageFilenameFull": "hogwarts-legacy__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/",
         "purchaseLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/#buy-now",
         "bgColor": "#CCE5FF"
@@ -97,7 +97,7 @@ export const eventData = {
         "title": "Fall Guys",
         "summary": "Stumble towards greatness.<br>Fall Guys is a free, cross-platform, massively multiplayer, party royale game where you and your fellow contestants compete through escalating rounds of absurd obstacle course chaos until one lucky victor remains!",
         "imageFilenameThumb": "fall-guys__1x1.webp",
-        "imageFilenameFull": "fall-guys__16x9",
+        "imageFilenameFull": "fall-guys__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/",
         "purchaseLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/#buy-now",
         "bgColor": "#CCCCFF"
@@ -125,7 +125,6 @@ const Calendar = ({ events }) => {
  };
 
  const handleDateClick = (date) => {
-  console.log(date);
     const event = events.find((event) => event.launchDate.split('T')[0] === date);
     if (event) {
         console.log(event);
@@ -134,7 +133,7 @@ const Calendar = ({ events }) => {
  };
 
  const renderDaysOfWeek = () => {
-    const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    const days = ['Sunday', 'Monday', 'Tueday', 'Wedday', 'Thursday', 'Friday', 'Saturday'];
     return days.map((day, index) => <div key={index} className="cell">{day}</div>);
  };
 
@@ -150,18 +149,17 @@ const Calendar = ({ events }) => {
 
     for (let i = 1; i <= totalDays; i++) {
         const eventDate = new Date(year, month, i).toISOString().split('T')[0];
-        console.log(eventDate);
         const event = events.find((event) => event.launchDate.split('T')[0] === eventDate);
         const hasEvent = !!event;
-        const bgColor = event ? event.bgColor : '';
+        const bgImage = event ? `url(/images/${event.imageFilenameThumb})` : '';
         days.push(
             <div
-                key={i}
+              key={event ? event.id : i}
                 className={`cell ${hasEvent ? 'highlight' : ''}`}
-                style={{backgroundColor: bgColor}}
+                style={{backgroundImage: bgImage}}
                 onClick={() => handleDateClick(eventDate)}
             >
-                {i}
+                <span>{i}</span>
             </div>
         );
     }
@@ -171,9 +169,9 @@ const Calendar = ({ events }) => {
  return (
     <div className="calendar">
       <div className="header">
-        <button onClick={prevMonth} className="buttons" disabled={month === 0}>Prev</button>
+        <button onClick={prevMonth} disabled={month === 0}><i className="ri-arrow-left-wide-line"></i></button>
         <h2>{new Date(year, month).toLocaleString('default', { month: 'long' })} {year}</h2>
-        <button onClick={nextMonth} className="buttons" disabled={month === 11}>Next</button>
+        <button onClick={nextMonth} disabled={month === 11}><i className="ri-arrow-right-wide-line"></i></button>
       </div>  
       <div className="grid days">
         {renderDaysOfWeek()}
@@ -183,20 +181,16 @@ const Calendar = ({ events }) => {
       </div>
       {selectedEvent && (
         <div className="event-modal">
-          <div className="modal-content">
+          <div className="modal-content" style={{backgroundImage: `url(/images/${selectedEvent.imageFilenameFull})`}}>
             <span className="close" onClick={() => setSelectedEvent(null)}>
               &times;
             </span>
             
-            <div className='event-image-desc'>
-              <img src={`/images/${selectedEvent.imageFilenameThumb}`}  />
-              <div>
-                <h3>{selectedEvent.title}</h3>
-                <p className='font-xs'>Date: {selectedEvent.launchDate.split('T')[0]}</p>
-                <p>{selectedEvent.summary} <a title='Learn More' href={selectedEvent.learnMoreLink}>Learn More</a></p>
-              </div>
+            <div className='event-desc'>
+                <p>{selectedEvent.title}: {selectedEvent.summary}</p>
+                <p className='font-xs'><b>Available {new Date(selectedEvent.launchDate).toLocaleString('default', { month: 'long', day: 'numeric', year: 'numeric' })}</b></p>
             </div>
-            <p className='text-right'><a className='buttons' href={selectedEvent.purchaseLink}>Buy</a></p>
+            <p><a className='learn-more-button' title='Learn More' href={selectedEvent.learnMoreLink}>Learn More</a><a className='buy-button' href={selectedEvent.purchaseLink}>Pre Order Now</a></p>
           </div>
         </div>
       )}
