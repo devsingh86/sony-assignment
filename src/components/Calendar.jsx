@@ -11,8 +11,7 @@ export const eventData = {
         "imageFilenameThumb": "gran-turismo-7__1x1.webp",
         "imageFilenameFull": "gran-turismo-7__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/gran-turismo-7/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/gran-turismo-7/#buy-now",
-        "bgColor": "#FFCCCC"
+        "purchaseLink": "https://www.playstation.com/en-us/games/gran-turismo-7/#buy-now"
       },
       {
         "id": "939705715c6b3898dd3da5",
@@ -22,8 +21,7 @@ export const eventData = {
         "imageFilenameThumb": "metal-gear-solid__1x1.jpeg",
         "imageFilenameFull": "metal-gear-solid__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/#buy-now",
-        "bgColor": "#FFE5CC"
+        "purchaseLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/#buy-now"
       },
       {
         "id": "1785476915c6b3a21620b48",
@@ -33,8 +31,7 @@ export const eventData = {
         "imageFilenameThumb": "megaman-11__1x1.webp",
         "imageFilenameFull": "megaman-11__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/mega-man-11/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/mega-man-11/#buy-now",
-        "bgColor": "#FFFFCC"
+        "purchaseLink": "https://www.playstation.com/en-us/games/mega-man-11/#buy-now"
       },
       {
         "id": "2025599465c6b3a81c11541",
@@ -44,8 +41,7 @@ export const eventData = {
         "imageFilenameThumb": "resident-evil-4__1x1.webp",
         "imageFilenameFull": "resident-evil-4__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/#buy-now",
-        "bgColor": "#E5FFCC"
+        "purchaseLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/#buy-now"
       },
       {
         "id": "2143690395c6b39ea9621c0",
@@ -55,8 +51,7 @@ export const eventData = {
         "imageFilenameThumb": "hotline-miami__1x1.webp",
         "imageFilenameFull": "hotline-miami__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/hotline-miami/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/hotline-miami/#buy-now",
-        "bgColor": "#CCFFCC"
+        "purchaseLink": "https://www.playstation.com/en-us/games/hotline-miami/#buy-now"
       },
       {
         "id": "4692393625c6b390c959715",
@@ -66,8 +61,7 @@ export const eventData = {
         "imageFilenameThumb": "spiderman-2__1x1.webp",
         "imageFilenameFull": "spiderman-2__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/#buy-now",
-        "bgColor": "#CCFFE5"
+        "purchaseLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/#buy-now"
       },
       {
         "id": "6418261375c6b39f9246ff9",
@@ -77,8 +71,7 @@ export const eventData = {
         "imageFilenameThumb": "final-fantasy-xvi__1x1.webp",
         "imageFilenameFull": "final-fantasy-xvi__16x9.jpeg",
         "learnMoreLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/#buy-now",
-        "bgColor": "#CCFFFF"
+        "purchaseLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/#buy-now"
       },
       {
         "id": "6615829505c6b38b4e30e47",
@@ -88,8 +81,7 @@ export const eventData = {
         "imageFilenameThumb": "hogwarts-legacy__1x1.webp",
         "imageFilenameFull": "hogwarts-legacy__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/#buy-now",
-        "bgColor": "#CCE5FF"
+        "purchaseLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/#buy-now"
       },
       {
         "id": "7060050195c6b3a514f7358",
@@ -99,11 +91,8 @@ export const eventData = {
         "imageFilenameThumb": "fall-guys__1x1.webp",
         "imageFilenameFull": "fall-guys__16x9.webp",
         "learnMoreLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/",
-        "purchaseLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/#buy-now",
-        "bgColor": "#CCCCFF"
+        "purchaseLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/#buy-now"
       }
-
-      
     ]
   };
   
