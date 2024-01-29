@@ -1,10 +1,10 @@
-import Calendar, {eventData} from './components/Calendar'
+import Calendar from './components/Calendar'
 
 function App() {
 
   return (
     <>
-      <Calendar events={eventData.events} />
+      <Calendar />
     </>
   )
 }
