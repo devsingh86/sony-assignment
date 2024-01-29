@@ -4,96 +4,107 @@ import '../App.css';
 export const eventData = {
     events: [
       {
-        date: '2024-01-10',
-        venue: 'City Hall Auditorium',
-        eventName: 'Music Festival',
-        eventTitle: 'Harmony in Motion',
-        eventDescription:
-          'A vibrant celebration of diverse musical genres featuring local and international artists.',
-        bgColor: "#FFCCCC"
+        "id": "18213007415c6b3aceb83604",
+        "launchDate": "2024-01-13T09:01:30.152Z",
+        "title": "Gran Turismo 7",
+        "summary": "Gran Turismo 7 brings together the very best features of the Real Driving Simulator. Whether you’re a competitive or casual racer, collector, tuner, livery designer or photographer – find your line with a staggering collection of game modes including fan-favorites like GT Campaign, Arcade and Driving School.",
+        "imageFilenameThumb": "gran-turismo-7__1x1",
+        "imageFilenameFull": "gran-turismo-7__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/gran-turismo-7/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/gran-turismo-7/#buy-now",
+        "bgColor": "#FFCCCC"
       },
       {
-        date: '2024-02-15',
-        venue: 'Convention Center',
-        eventName: 'Tech Summit',
-        eventTitle: 'InnovateX',
-        eventDescription:
-          'A gathering of tech enthusiasts and industry leaders discussing the latest innovations and trends.',
-          bgColor: "#FFE5CC"
+        "id": "939705715c6b3898dd3da5",
+        "launchDate": "2024-01-29T21:32:46.879Z",
+        "title": "Metal Gear Solid: The Phantom Pain",
+        "summary": "Ushering in a new era for the franchise with cutting-edge technology powered by the Fox Engine, MGSV: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
+        "imageFilenameThumb": "metal-gear-solid__1x1",
+        "imageFilenameFull": "metal-gear-solid__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/metal-gear-solid-v-the-phantom-pain/#buy-now",
+        "bgColor": "#FFE5CC"
       },
       {
-        date: '2024-01-22',
-        venue: 'Central Park',
-        eventName: 'Food Truck Rally',
-        eventTitle: 'Flavors of the World',
-        eventDescription:
-          'Indulge in a culinary adventure with gourmet delights from around the globe.',
-          bgColor: "#FFFFCC"
+        "id": "1785476915c6b3a21620b48",
+        "launchDate": "2024-01-31T19:45:11.811Z",
+        "title": "Megaman 11",
+        "summary": "Mega Man is back! The newest entry in this iconic series blends classic, challenging 2D platforming action with a fresh look. The stunning new visual style refreshes the series' iconic colorfulness, combining hand-drawn environments with detailed, 3D character models.",
+        "imageFilenameThumb": "megaman-11__1x1",
+        "imageFilenameFull": "megaman-11__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/mega-man-11/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/mega-man-11/#buy-now",
+        "bgColor": "#FFFFCC"
       },
       {
-        date: '2024-03-05',
-        venue: 'Art Gallery',
-        eventName: 'Exhibition Opening',
-        eventTitle: 'Artistry Unleashed',
-        eventDescription:
-          'Experience a showcase of groundbreaking contemporary artworks by emerging talents.',
-        bgColor: "#E5FFCC"
+        "id": "2025599465c6b3a81c11541",
+        "launchDate": "2024-02-11T15:21:14.503Z",
+        "title": "Resident Evil 4",
+        "summary": "A thrilling reimagining of Capcom's groundbreaking action-horror classic. Resident Evil 4, 2005’s legendary survival horror, is brought fully up-to-date in this ground-up remake.",
+        "imageFilenameThumb": "resident-evil-4__1x1",
+        "imageFilenameFull": "resident-evil-4__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/resident-evil-4-remake/#buy-now",
+        "bgColor": "#E5FFCC"
       },
       {
-        date: '2024-01-12',
-        venue: 'Stadium Arena',
-        eventName: 'Sports Championship',
-        eventTitle: 'Victory Cup',
-        eventDescription:
-          'Witness thrilling sporting action as teams compete for the championship title.',
-        bgColor: "#CCFFCC"
+        "id": "2143690395c6b39ea9621c0",
+        "launchDate": "2024-02-18T04:21:17.875Z",
+        "title": "Hotline Miami",
+        "summary": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.",
+        "imageFilenameThumb": "hotline-miami__1x1",
+        "imageFilenameFull": "hotline-miami__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/hotline-miami/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/hotline-miami/#buy-now",
+        "bgColor": "#CCFFCC"
       },
       {
-        date: '2024-03-20',
-        venue: 'Community Center',
-        eventName: 'Charity Gala',
-        eventTitle: 'Hope for Tomorrow',
-        eventDescription:
-          'Join us for an elegant evening of philanthropy to support noble causes.',
-        bgColor: "#CCFFE5"
+        "id": "4692393625c6b390c959715",
+        "launchDate": "2024-03-19T00:29:27.528Z",
+        "title": "Spiderman 2",
+        "summary": "BE GREATER. TOGETHER. Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for PS5. <br> Swing, jump and utilize the new Web Wings to travel across Marvel’s New York, quickly switching between Peter Parker and Miles Morales to experience different stories and epic new powers, as the iconic villain Venom threatens to destroy their lives, their city and the ones they love.",
+        "imageFilenameThumb": "spiderman-2__1x1",
+        "imageFilenameFull": "spiderman-2__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/marvels-spider-man-2/#buy-now",
+        "bgColor": "#CCFFE5"
       },
       {
-        date: '2024-03-25',
-        venue: 'Opera House',
-        eventName: 'Cultural Performance',
-        eventTitle: 'Rhythms of Tradition',
-        eventDescription:
-          'Immerse yourself in a captivating showcase of traditional music and dance.',
-        bgColor: "#CCFFFF"
+        "id": "6418261375c6b39f9246ff9",
+        "launchDate": "2024-03-05T02:50:49.950Z",
+        "title": "Final Fantasy XVI",
+        "summary": "Enter the dark fantasy world of Valisthea in this highly anticipated single-player action RPG. <br>The 16th standalone entry in the legendary Final Fantasy series marks a darker turn for the RPG franchise, with a complex tale of revenge, power struggles and unavoidable tragedy. <br>Final Fantasy XVI reimagines the series' iconic summons as Eikons. These deadly creatures are housed within Dominants, men and women who inherit their immense power at birth - whether they like it or not.",
+        "imageFilenameThumb": "final-fantasy-xvi__1x1",
+        "imageFilenameFull": "final-fantasy-xvi__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/final-fantasy-xvi/#buy-now",
+        "bgColor": "#CCFFFF"
       },
       {
-        date: '2024-04-02',
-        venue: 'Outdoor Amphitheater',
-        eventName: 'Film Screening',
-        eventTitle: 'Cinematic Odyssey',
-        eventDescription:
-          'Enjoy an alfresco movie experience under the stars with classic and contemporary films.',
-        bgColor: "#CCE5FF"
+        "id": "6615829505c6b38b4e30e47",
+        "launchDate": "2024-04-19T10:14:52.687Z",
+        "title": "Hogwarts Legacy",
+        "summary": "Experience Hogwarts in the late 1800s and decide the fate of the wizarding world.",
+        "imageFilenameThumb": "hogwarts-legacy__1x1",
+        "imageFilenameFull": "hogwarts-legacy__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/hogwarts-legacy/#buy-now",
+        "bgColor": "#CCE5FF"
       },
       {
-        date: '2024-04-10',
-        venue: 'Botanical Gardens',
-        eventName: 'Flower Show',
-        eventTitle: 'Blossom Extravaganza',
-        eventDescription:
-          'Admire the beauty of nature with a stunning display of colorful blooms and floral arrangements.',
-          bgColor: "#CCCCFF"
-      },
-      {
-        date: '2024-04-18',
-        venue: 'Historical Museum',
-        eventName: 'Lecture Series',
-        eventTitle: 'Enlightenment Talks',
-        eventDescription:
-          'Engage in thought-provoking discussions on history, science, and philosophy.',
-          bgColor: "#E5CCFF"
-      },
-    ],
+        "id": "7060050195c6b3a514f7358",
+        "launchDate": "2024-04-20T14:36:38.034Z",
+        "title": "Fall Guys",
+        "summary": "Stumble towards greatness.<br>Fall Guys is a free, cross-platform, massively multiplayer, party royale game where you and your fellow contestants compete through escalating rounds of absurd obstacle course chaos until one lucky victor remains!",
+        "imageFilenameThumb": "fall-guys__1x1",
+        "imageFilenameFull": "fall-guys__16x9",
+        "learnMoreLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/",
+        "purchaseLink": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/#buy-now",
+        "bgColor": "#CCCCFF"
+      }
+
+      
+    ]
   };
 
 
@@ -113,7 +124,8 @@ const Calendar = ({ events }) => {
  };
 
  const handleDateClick = (date) => {
-    const event = events.find((event) => event.date === date);
+  console.log(date);
+    const event = events.find((event) => event.launchDate.split('T')[0] === date);
     if (event) {
         console.log(event);
         setSelectedEvent(event);
@@ -137,7 +149,8 @@ const Calendar = ({ events }) => {
 
     for (let i = 1; i <= totalDays; i++) {
         const eventDate = new Date(year, month, i).toISOString().split('T')[0];
-        const event = events.find((event) => event.date === eventDate);
+        console.log(eventDate);
+        const event = events.find((event) => event.launchDate.split('T')[0] === eventDate);
         const hasEvent = !!event;
         const bgColor = event ? event.bgColor : '';
         days.push(
@@ -173,10 +186,10 @@ const Calendar = ({ events }) => {
             <span className="close" onClick={() => setSelectedEvent(null)}>
               &times;
             </span>
-            <h2>{selectedEvent.eventName}</h2>
-            <h3>{selectedEvent.eventTitle}</h3>
-            <p>{selectedEvent.eventDescription}</p>
-            <p>Venue: {selectedEvent.venue}</p>
+            <h3>{selectedEvent.title}</h3>
+            <p>{selectedEvent.summary}</p>
+            <p>Date: {selectedEvent.launchDate.split('T')[0]}</p>
+            <a href={selectedEvent.learnMoreLink}>Learn More</a> | <a href={selectedEvent.purchaseLink}>Buy</a>
           </div>
         </div>
       )}
